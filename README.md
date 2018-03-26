@@ -27,6 +27,9 @@
 * Visualización, categorización y detalles, por medio de slider funcional junto con el "add to cart" que nos permite agregar nuestra compra al carrito.
 
 ![img](images/readme-img.png)
+![img](https://drive.google.com/file/d/1rtEAq9Zm-jRzREQDruvBlY-h4rML9-YO/view?usp=sharing)
+
+
 
 :smile: [Helen Harnish](https://github.com/HelenHarnish)
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
