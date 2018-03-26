@@ -39,6 +39,6 @@
 :smile: [Lorena Palominos](https://github.com/lpalominosf)
 
 
-
+## Desarrollado para [Laboratoria](http://laboratoria.la)
 
 
