@@ -29,13 +29,15 @@
 ![img](images/readme-img.png)
 
 
+[Demo](https://lpalominosf.github.io/Pop-and-Rock-Shop/)
+
+
 
 :smile: [Helen Harnish](https://github.com/HelenHarnish)
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
 :smile: [Lorena Palominos](https://github.com/lpalominosf)
 
-[Demo](https://lpalominosf.github.io/Pop-and-Rock-Shop/)
 
 
 
