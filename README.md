@@ -27,7 +27,6 @@
 * Visualización, categorización y detalles, por medio de slider funcional junto con el "add to cart" que nos permite agregar nuestra compra al carrito.
 
 ![img](images/readme-img.png)
-![imagen](https://ibb.co/iPUSun)
 
 
 
