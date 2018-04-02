@@ -1,3 +1,5 @@
+![img](images/readme-img.png)
+
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
 
 # Proyecto final 6
@@ -25,8 +27,6 @@
 * Nuestra APP web consiste en la compra online de figuras de colección correspondientes a la marca Funko Pop, por medio del pago vía Paypal.
 
 * Visualización, categorización y detalles, por medio de slider funcional junto con el "add to cart" que nos permite agregar nuestra compra al carrito.
-
-![img](images/readme-img.png)
 
 
 [Demo](https://lpalominosf.github.io/Pop-and-Rock-Shop/)
