@@ -1,4 +1,5 @@
-![img](images/readme-img.png)
+![readme-img](https://user-images.githubusercontent.com/32282235/38212052-d13f5bd6-3692-11e8-9d4f-a6e46add50df.png)
+
 
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
 
